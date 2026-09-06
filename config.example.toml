@@ -1,0 +1,5 @@
+# Copiar este archivo a config.toml y completar con las rutas locales.
+
+[merge]
+source_folder = "ruta/a/tus/pdf/individuales"
+destination_folder = "ruta/a/tus/pdf/unificados"
